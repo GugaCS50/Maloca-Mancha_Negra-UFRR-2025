@@ -33,9 +33,3 @@ O carrinho é programado com um código em Arduino que utiliza os sensores de ul
 1. **Conecte os Componentes**: Siga o diagrama de ligação dos componentes (Arduino, sensores e motores stepper).
 2. **Carregue o Código**: Utilize a IDE do Arduino para carregar o código no seu Arduino Uno.
 3. **Testes**: Realize testes para ajustar o comportamento do carrinho, principalmente a distância de detecção dos sensores de ultrassom.
-
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/carrinho-autonomo.git
