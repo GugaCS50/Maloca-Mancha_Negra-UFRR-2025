@@ -12,11 +12,10 @@ Este projeto é um carrinho autônomo desenvolvido utilizando o Arduino, circuit
 
 ## Componentes Utilizados
 
-- **Arduino Uno**: Para o controle central do carrinho.
+- **Arduino Mega**: Para o controle central do carrinho.
 - **Motores Stepper**: Para movimentar o carrinho em diferentes direções.
-- **Sensores de Ultrassom**: Para detectar obstáculos e evitar colisões.
+- **Sensores Ultrasonicos**: Para detectar obstáculos e evitar colisões.
 - **Drivers de Motor**: Para controlar a velocidade e direção dos motores stepper.
-- **Bateria**: Para alimentar os circuitos e os motores.
 - **Estrutura do Carrinho**: Peças de circuito e outros materiais para montar a base do carrinho.
 
 ## Funcionalidade
