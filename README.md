@@ -6,7 +6,7 @@ Este projeto é um carrinho autônomo desenvolvido utilizando o Arduino, circuit
 
 ## Objetivos
 
-- **Movimento Autônomo**: O carrinho se move de maneira independente utilizando motores **stepper**, controlados pelo Arduino.
+- **Movimento Autônomo**: O carrinho se move utilizando motores **stepper**, controlados pelo Arduino.
 - **Evitação de Obstáculos**: Equipado com sensores, o carrinho é capaz de detectar e evitar obstáculos durante o trajeto.
 - **Aplicação Hospitalar**: A ideia é criar um protótipo capaz de transportar medicamentos para pacientes, reduzindo a necessidade de intervenção humana para transporte dentro do ambiente hospitalar.
 
